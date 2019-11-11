@@ -1,4 +1,4 @@
-![shield](https://img.shields.io/badge/firefox-ok-green) 
+![shield](https://img.shields.io/badge/Firefox-ok-green) 
 ![shield](https://img.shields.io/badge/Chrome-ok-green)
 
 # JPlus
